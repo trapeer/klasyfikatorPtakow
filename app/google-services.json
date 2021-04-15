@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021731945410",
+    "project_id": "fotopulapki-52374",
+    "storage_bucket": "fotopulapki-52374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021731945410:android:81e398ab837813a805345b",
+        "android_client_info": {
+          "package_name": "com.example.klasyfikatorptakow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021731945410-35uh19kq4lvmrn2a9i9jhcj2g8qurni1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klasyfikatorptakow",
+            "certificate_hash": "100b89c7b4af0338d7a78e0fc04a8605f5fa3000"
+          }
+        },
+        {
+          "client_id": "1021731945410-1cp8vmg0hja05difjpesuaeu075kjrv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvI-p_hmFBvj_-1B5aiSsbKZoi4mpHuzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021731945410-1cp8vmg0hja05difjpesuaeu075kjrv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
